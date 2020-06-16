@@ -1,0 +1,9 @@
+{
+	"CLASSES"	: 	293				,
+	"FEATURES"	: 	1024				,
+	"IMG_DIMENSION"	:	256				,
+	"DATASET"	:	"/data/Training data/iris_left/",
+	"BATCH_SIZE"	:	12				,
+	"IM_PER_CLASS"	:	4				,
+	"INFER_DIR"	:	"/data/Training data/iris_right/"
+}
